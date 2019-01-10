@@ -1,2 +1,0 @@
-# jsTempConverterFNL
-Created with CodeSandbox
